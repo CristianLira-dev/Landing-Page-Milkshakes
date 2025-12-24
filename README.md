@@ -20,7 +20,7 @@ Este projeto foi criado com o objetivo de explorar o potencial do **3D na Web**,
 - **Three.js** – Renderização e manipulação de objetos 3D  
 - **GSAP** – Animações avançadas e transições suaves  
 - **JavaScript (ES6+)**  
-- **HTML5 & CSS3**  
+- **HTML5 & SASS**  
 - **WebGL** – Base para renderização gráfica 3D  
 
 ---
