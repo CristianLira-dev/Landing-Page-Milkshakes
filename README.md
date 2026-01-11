@@ -2,7 +2,7 @@
 
 Uma **landing page totalmente interativa em 3D para uma milkshakeria**, desenvolvida como meu **primeiro projeto em React**, com foco em **UI/UX**, animações suaves e uma experiência visual moderna.
 
-O projeto combina **React**, **Three.js** e **GSAP** para criar uma interface envolvente, onde **milkshakes giram em 3D**, respondem a interações do usuário e tornam a navegação divertida e memorável.
+O projeto combina **React**, **Three.js** e **GSAP** para criar uma interface envolvente, onde **Milkshakes giram em 3D**, respondem a interações do usuário e tornam a navegação divertida e memorável.
 
 ---
 
